@@ -1,3 +1,2 @@
-Hello Git & GitHub
-Welcome to Main Branch >> hello.txt
-echo Welcome to Main Branch
+Welcome to Main and Feature Branch > hello.txt
+echo Welcome to Main and Feature Branch!
